@@ -4,8 +4,8 @@ Generic Model: https://www.amazon.com/uxcell-Black-Cable-Driver-Inverter/dp/B00E
 
 Adafruit Model:https://www.adafruit.com/product/448
 
-Laser cut base out of 5mm plywood
-Laser cut braces out of 3mm plywood
++Laser cut base out of 5mm plywood
++Laser cut braces out of 3mm plywood
 
 Top View:
 
