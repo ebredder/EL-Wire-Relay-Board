@@ -6,6 +6,7 @@ Adafruit Model:https://www.adafruit.com/product/448
 
 - Laser cut base out of 5mm plywood
 - Laser cut braces out of 3mm plywood
+- Attach to PCB with M3 x 6mm socket cap screws, no need for nuts, thread through undersized wood holes.
 
 Top View:
 
