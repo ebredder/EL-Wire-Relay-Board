@@ -9,8 +9,8 @@ Laser cut braces out of 3mm plywood
 
 Top View:
 
-![Alt text](/Inverter Enclosure/InvEnc1.jpg?raw=true "Enclosure")
+![Alt text](/Inverter_Enclosure/InvEnc1.jpg?raw=true "Enclosure")
 
 Bottom View
 
-![Alt text](/Inverter Enclosure/InvEnc2.jpg?raw=true "Enclosure")
+![Alt text](/Inverter_Enclosure/InvEnc2.jpg?raw=true "Enclosure")
